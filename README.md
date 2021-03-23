@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning more about Python
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me LinkedIn Ioannis MykelosKioutsioukis
+- 📫 How to reach me LinkedIn Ioannis Mykelos Kioutsioukis
 
 <!---
 Ioannis-Mykelos/Ioannis-Mykelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
