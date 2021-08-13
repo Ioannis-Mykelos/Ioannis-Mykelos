@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ioannis-Mykelos
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning more about Python
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning more about ML
 - 📫 How to reach me LinkedIn Ioannis Mykelos Kioutsioukis
 
 <!---
