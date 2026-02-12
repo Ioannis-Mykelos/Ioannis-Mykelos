@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Ioannis-Mykelos
-- 👀 I’m interested in Data Science & ML
+- Data Scientist | 4+ years of experience | background in Mathematics
